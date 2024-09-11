@@ -1,0 +1,51 @@
+id,name,date,location,description,organizer_id,status
+1,Tech Conference 2023,2023-11-15,New York,Annual tech conference,1,planned
+2,Music Festival,2023-12-01,Los Angeles,Outdoor music festival,2,planned
+3,Art Expo,2023-12-10,San Francisco,Exhibition of modern art,3,planned
+4,Food Carnival,2023-12-20,Chicago,Gourmet food and drinks,4,planned
+5,Startup Pitch,2023-12-25,Boston,Pitch event for startups,5,planned
+6,Tech Conference 2024,2024-01-15,New York,Annual tech conference,1,planned
+7,Music Festival 2024,2024-02-01,Los Angeles,Outdoor music festival,2,planned
+8,Art Expo 2024,2024-02-10,San Francisco,Exhibition of modern art,3,planned
+9,Food Carnival 2024,2024-02-20,Chicago,Gourmet food and drinks,4,planned
+10,Startup Pitch 2024,2024-02-25,Boston,Pitch event for startups,5,planned
+11,Tech Conference 2025,2025-01-15,New York,Annual tech conference,1,planned
+12,Music Festival 2025,2025-02-01,Los Angeles,Outdoor music festival,2,planned
+13,Art Expo 2025,2025-02-10,San Francisco,Exhibition of modern art,3,planned
+14,Food Carnival 2025,2025-02-20,Chicago,Gourmet food and drinks,4,planned
+15,Startup Pitch 2025,2025-02-25,Boston,Pitch event for startups,5,planned
+16,Tech Conference 2026,2026-01-15,New York,Annual tech conference,1,planned
+17,Music Festival 2026,2026-02-01,Los Angeles,Outdoor music festival,2,planned
+18,Art Expo 2026,2026-02-10,San Francisco,Exhibition of modern art,3,planned
+19,Food Carnival 2026,2026-02-20,Chicago,Gourmet food and drinks,4,planned
+20,Startup Pitch 2026,2026-02-25,Boston,Pitch event for startups,5,planned
+21,Tech Conference 2027,2027-01-15,New York,Annual tech conference,1,planned
+22,Music Festival 2027,2027-02-01,Los Angeles,Outdoor music festival,2,planned
+23,Art Expo 2027,2027-02-10,San Francisco,Exhibition of modern art,3,planned
+24,Food Carnival 2027,2027-02-20,Chicago,Gourmet food and drinks,4,planned
+25,Startup Pitch 2027,2027-02-25,Boston,Pitch event for startups,5,planned
+26,Tech Conference 2028,2028-01-15,New York,Annual tech conference,1,planned
+27,Music Festival 2028,2028-02-01,Los Angeles,Outdoor music festival,2,planned
+28,Art Expo 2028,2028-02-10,San Francisco,Exhibition of modern art,3,planned
+29,Food Carnival 2028,2028-02-20,Chicago,Gourmet food and drinks,4,planned
+30,Startup Pitch 2028,2028-02-25,Boston,Pitch event for startups,5,planned
+31,Tech Conference 2029,2029-01-15,New York,Annual tech conference,1,planned
+32,Music Festival 2029,2029-02-01,Los Angeles,Outdoor music festival,2,planned
+33,Art Expo 2029,2029-02-10,San Francisco,Exhibition of modern art,3,planned
+34,Food Carnival 2029,2029-02-20,Chicago,Gourmet food and drinks,4,planned
+35,Startup Pitch 2029,2029-02-25,Boston,Pitch event for startups,5,planned
+36,Tech Conference 2030,2030-01-15,New York,Annual tech conference,1,planned
+37,Music Festival 2030,2030-02-01,Los Angeles,Outdoor music festival,2,planned
+38,Art Expo 2030,2030-02-10,San Francisco,Exhibition of modern art,3,planned
+39,Food Carnival 2030,2030-02-20,Chicago,Gourmet food and drinks,4,planned
+40,Startup Pitch 2030,2030-02-25,Boston,Pitch event for startups,5,planned
+41,Tech Conference 2031,2031-01-15,New York,Annual tech conference,1,planned
+42,Music Festival 2031,2031-02-01,Los Angeles,Outdoor music festival,2,planned
+43,Art Expo 2031,2031-02-10,San Francisco,Exhibition of modern art,3,planned
+44,Food Carnival 2031,2031-02-20,Chicago,Gourmet food and drinks,4,planned
+45,Startup Pitch 2031,2031-02-25,Boston,Pitch event for startups,5,planned
+46,Tech Conference 2032,2032-01-15,New York,Annual tech conference,1,planned
+47,Music Festival 2032,2032-02-01,Los Angeles,Outdoor music festival,2,planned
+48,Art Expo 2032,2032-02-10,San Francisco,Exhibition of modern art,3,planned
+49,Food Carnival 2032,2032-02-20,Chicago,Gourmet food and drinks,4,planned
+50,Startup Pitch 2032,2032-02-25,Boston,Pitch event for startups,5,planned
